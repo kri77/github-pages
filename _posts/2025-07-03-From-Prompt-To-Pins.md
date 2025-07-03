@@ -73,6 +73,11 @@ The architecture included:
 - Decision logic: Python bridge script
 - Action layer: MCP server → Arduino serial
 
+The code projects are available here:
+
+- [LedAPI - the API for communicating with the Arduino, including the Arduino sketches](https://github.com/kri77/LedAPI)
+- [MCPForLedAPI - the MCP server communicating with the LedAPI](https://github.com/kri77/MCPForLedAPI)
+- [ChatWithMCPForLedAPI, a simple bridge script to prove the concept](https://github.com/kri77/MCPForLedAPI)
 ---
 
 ### Conclusion: An Agent with Real-World Consequences
@@ -81,4 +86,6 @@ This project confirmed that ChatGPT can indeed talk to an Arduino—but more imp
 
 In a world where AI is expected to blend into physical environments, this experiment shows just how close we already are.
 
+
+  
 **Next steps?** Integrate sensors, speech recognition, or even remote control via Slack or Telegram. But for now, it’s enough to sit back and tell ChatGPT: *"Turn on the green light"* — and watch the world respond.
