@@ -79,6 +79,8 @@ The code projects are available here:
 - [LedAPI - the API for communicating with the Arduino written in Python, including the Arduino sketches, written in C++ ](https://github.com/kri77/LedAPI)
 - [MCPForLedAPI - the MCP server communicating with the LedAPI, written in Python](https://github.com/kri77/MCPForLedAPI)
 - [ChatWithMCPForLedAPI, a simple bridge script to prove the concept, written in Python](https://github.com/kri77/MCPForLedAPI)
+
+  
 ---
 
 ### Conclusion: An Agent with Real-World Consequences
