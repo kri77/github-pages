@@ -2,13 +2,13 @@
 title: "From Prompts to pins"
 date: 2025-07-03
 ---
-## Can ChatGPT talk to my Arduino? A real-world exploration of Intent Parsing and hardware control
+## Can ChatGPT talk to my Arduino? An experiment of intent parsing and hardware control
 
 ### Ingress
 
-In the age of intelligent systems, one question echoes louder among makers and architects alike: *Can an AI assistant meaningfully control real-world hardware?* I set out to explore this through a hands-on experiment—connecting OpenAI's ChatGPT to an Arduino Nano. What started as a curious challenge quickly evolved into a structured, agent-based architecture with  API endpoints, model context parsing, and Python orchestration.
+In the age of intelligent systems, one question echoes louder among makers and architects alike: *Can an AI assistant meaningfully control real-world hardware?* I tried to explore this through a hands-on experiment—connecting OpenAI's ChatGPT to an Arduino Nano. What started as a mild curiousity quickly scope creeped into a full project with structured, agent-based architecture, API endpoints, model context parsing, and Python orchestration.
 
-This post shares the journey, the system design, and what I learned along the way.
+This post shares the system design, and what I learned along the way.
 
 ---
 
@@ -63,7 +63,7 @@ However, I later transitioned to ChatGPT (GPT-4) using the OpenAI Python SDK. Th
 
 ### Step 4: Making It Smart — Agent vs Assistant
 
-At this point, the architecture had evolved beyond a passive assistant. The AI wasn't just responding—it was *acting* on behalf of the user by invoking APIs and influencing real-world hardware.
+At this point, the architecture had evolved beyond a passive assistant. The AI wasn't just responding—it was *acting* on behalf of the user by invoking APIs and influencing led shifts - real world hardware.
 
 This justified a shift in terminology: this was now an **AI Agent**, not just an assistant.
 
